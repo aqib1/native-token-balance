@@ -1089,3 +1089,6 @@ It provides:
 - Balance formatting to 4 decimal places
 - Clean reusable utility functions
 - Simple and reviewer-friendly UI
+
+<img width="714" height="565" alt="Screenshot 2026-05-26 at 03 51 21" src="https://github.com/user-attachments/assets/542bb5f2-0c64-4f12-9092-8036e61463e2" />
+
